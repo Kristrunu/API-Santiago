@@ -1,0 +1,22 @@
+#results {
+  /* display: none; */
+  border: 1px solid grey;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#search {
+  width: 50%;
+}
+
+form {
+    display: flex;
+}
+
+button {
+    padding: .25rem;
+    margin-left: 1rem;
+}
+
+input {
+  padding: .5rem;
+}
